@@ -1,0 +1,10 @@
+desktop.ini
+.ipynb_checkpoints/
+models/
+outputs/
+archive_old_attempts/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
