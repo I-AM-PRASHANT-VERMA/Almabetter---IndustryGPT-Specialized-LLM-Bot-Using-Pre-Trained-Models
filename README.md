@@ -6,7 +6,7 @@ This repository contains the Colab notebook for the AlmaBetter capstone project 
 
 The project builds a retail and e-commerce customer support chatbot using a pre-trained Hugging Face LLM. The notebook fine-tunes `Qwen/Qwen2.5-3B-Instruct` with QLoRA 4-bit on customer-support data and saves the trained LoRA adapter to Google Drive.
 
-## Final Notebook
+## Notebook
 
 Open this notebook in Google Colab:
 
