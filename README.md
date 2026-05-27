@@ -1,6 +1,6 @@
 # IndustryGPT: Retail E-commerce Customer Support Bot
 
-This repository contains the final Colab notebook for the AlmaBetter capstone project **IndustryGPT: Specialized LLM Bot Using Pre-Trained Models**.
+This repository contains the Colab notebook for the AlmaBetter capstone project **IndustryGPT: Specialized LLM Bot Using Pre-Trained Models**.
 
 ## Project Overview
 
